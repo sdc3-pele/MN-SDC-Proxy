@@ -1,3 +1,3 @@
-# mike-proxy
+# proxy
 
-Proxy server for fec3-galadriel
+Proxy server for lulu lemon
